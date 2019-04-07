@@ -25,5 +25,5 @@ PR if you are working in the company or know it is using XP Programming for sure
 
 ## Spain
 
-[Alea Soluciones](https://www.alea-soluciones.com/)
-[Nextail](https://www.nextail.co/) Right now (April 2019), not all the squads, but it is the objective.
+- [Alea Soluciones](https://www.alea-soluciones.com/)
+- [Nextail](https://www.nextail.co/) Right now (April 2019), not all the squads, but it is the objective.
