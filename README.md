@@ -10,7 +10,9 @@ This is not a "cool-o-meter", if your company really does not use Agile, it's ok
 
 # Companies and practices they use
 
-PR if you want to add your company and its practice
+PR if you want to add your company and its practice.
+
+Add the name, and into the `companies` folder add a markdown with the info of your company
 
 ## Spain
 
