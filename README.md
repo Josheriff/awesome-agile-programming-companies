@@ -15,7 +15,7 @@ PR if you want to add your company and its practice
 ## Spain
 
 ### Alea Soluciones
-- [Alea Soluciones]("companies/alea.md")
+- [Alea Soluciones](companies/alea.md)
 
 
 - [Nextail](https://www.nextail.co/) Right now (April 2019), not all the squads, but it is the objective.
